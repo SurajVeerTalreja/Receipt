@@ -1,5 +1,5 @@
 # Receipt
 Example Repository for Lab task
 
---Gulyas Missing again
+--Gulyas will be uploaded
 --Omelette is Missing
