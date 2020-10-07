@@ -8,5 +8,6 @@ Example Repository for Lab task
 --Pasta will be uploaded
 --Macroni will be uploaded
 --sphegetti is ordered again
+--1 litre pepsi ordered
 
 
