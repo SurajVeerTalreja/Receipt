@@ -9,5 +9,6 @@ Example Repository for Lab task
 --Macroni will be uploaded
 --sphegetti is ordered again
 --1 litre soda ordered
+--Pepsi reordered
 
 
