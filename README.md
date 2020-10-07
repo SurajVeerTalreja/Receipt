@@ -10,5 +10,6 @@ Example Repository for Lab task
 --sphegetti is ordered again
 --1 litre soda ordered
 --Pepsi reordered
+--Order completed
 
 
